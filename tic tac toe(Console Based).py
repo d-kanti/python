@@ -1,7 +1,7 @@
 
             #----------------------------------------defining functions-----------------------------------------
 
-#s---------------------show board--------87------>
+#s----------------there-----show board--------87------>
 def disp(board):
     #clear the previous output----
     print("\n"*10)
